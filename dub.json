@@ -1,0 +1,7 @@
+{
+	"name": "cairo",
+	"version": "~master",
+	"importPaths": [ "." ],
+	"targetType": "sourceLibrary",
+	"libs": [ "cairo" ]
+}
